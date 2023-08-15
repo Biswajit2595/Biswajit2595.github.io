@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6d09eaf3.css",
-    "main.js": "/static/js/main.167b3905.js",
+    "main.js": "/static/js/main.dfdeb498.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/My_project-no-background.png": "/static/media/My_project-no-background.07cd40ec7c9b3e212187.png",
     "static/media/WeWear.png": "/static/media/WeWear.1980f6915b0a43ddf448.png",
@@ -9,13 +9,25 @@
     "static/media/YourDoc.png": "/static/media/YourDoc.cb5aa6cf4d9ec4ed18be.png",
     "static/media/StayUpdate.png": "/static/media/StayUpdate.5b3765a90a3049924856.png",
     "static/media/Biswajit-Roy-Resume.pdf": "/static/media/Biswajit-Roy-Resume.d1d737be81bb0fef8235.pdf",
+    "static/media/nodejs.png": "/static/media/nodejs.d6153fa85318a68d9bca.d6153fa85318a68d9bca.png",
+    "static/media/HTML.png": "/static/media/HTML.324197d231e638679043.324197d231e638679043.png",
+    "static/media/chakra_ui.png": "/static/media/chakra_ui.15320604467d004df871.15320604467d004df871.png",
+    "static/media/styled_components.png": "/static/media/styled_components.663f9243a2f10603d789.663f9243a2f10603d789.png",
+    "static/media/react.png": "/static/media/react.dd71402a89c5118eca46.dd71402a89c5118eca46.png",
+    "static/media/javascript.png": "/static/media/javascript.d006162a7d2c6bb7c232.d006162a7d2c6bb7c232.png",
+    "static/media/CSS.png": "/static/media/CSS.235d38f79bf6b572796b.235d38f79bf6b572796b.png",
+    "static/media/mongodb.png": "/static/media/mongodb.33aeecc9dd8fa8472187.33aeecc9dd8fa8472187.png",
+    "static/media/express.png": "/static/media/express.30c895c8246f80646902.30c895c8246f80646902.png",
+    "static/media/redux.png": "/static/media/redux.b3b939c66aecf7d53967.b3b939c66aecf7d53967.png",
+    "static/media/github.png": "/static/media/github.3e586095476d3509dc81.3e586095476d3509dc81.png",
+    "static/media/postman.png": "/static/media/postman.e1a9171b748fb4a1100c.e1a9171b748fb4a1100c.png",
     "index.html": "/index.html",
     "main.6d09eaf3.css.map": "/static/css/main.6d09eaf3.css.map",
-    "main.167b3905.js.map": "/static/js/main.167b3905.js.map",
+    "main.dfdeb498.js.map": "/static/js/main.dfdeb498.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d09eaf3.css",
-    "static/js/main.167b3905.js"
+    "static/js/main.dfdeb498.js"
   ]
 }
