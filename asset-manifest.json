@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6d09eaf3.css",
-    "main.js": "/static/js/main.2b818a76.js",
+    "main.js": "/static/js/main.653f3ee4.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/portfoliophoto.gif": "/static/media/portfoliophoto.7f45af64d11074ff6815.gif",
     "static/media/WeWear.png": "/static/media/WeWear.1980f6915b0a43ddf448.png",
@@ -13,8 +13,8 @@
     "static/media/Biswajit-Roy-Resume.pdf": "/static/media/Biswajit-Roy-Resume.d1d737be81bb0fef8235.pdf",
     "static/media/GardenEase.jpg": "/static/media/GardenEase.e4d40a84ed0d5a5ea5cd.jpg",
     "static/media/Tailwind-CSS1.png": "/static/media/Tailwind-CSS1.d5abcf62e57cbbee357e.png",
+    "static/media/postgre.png": "/static/media/postgre.7ac7e99e7c1225302215.png",
     "static/media/ChatGPT-Logo-PNG-1.png": "/static/media/ChatGPT-Logo-PNG-1.6abaa011b83a46f43531.png",
-    "static/media/postgreSQL.png": "/static/media/postgreSQL.92744fbf39d0553d5dfe.png",
     "static/media/nodejs.png": "/static/media/nodejs.d6153fa85318a68d9bca.d6153fa85318a68d9bca.png",
     "static/media/flask.png": "/static/media/flask.a513ea1d978a3bef2c16.png",
     "static/media/HTML.png": "/static/media/HTML.324197d231e638679043.324197d231e638679043.png",
@@ -32,11 +32,11 @@
     "static/media/postman.png": "/static/media/postman.e1a9171b748fb4a1100c.e1a9171b748fb4a1100c.png",
     "index.html": "/index.html",
     "main.6d09eaf3.css.map": "/static/css/main.6d09eaf3.css.map",
-    "main.2b818a76.js.map": "/static/js/main.2b818a76.js.map",
+    "main.653f3ee4.js.map": "/static/js/main.653f3ee4.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d09eaf3.css",
-    "static/js/main.2b818a76.js"
+    "static/js/main.653f3ee4.js"
   ]
 }
