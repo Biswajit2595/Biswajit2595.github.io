@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.6d09eaf3.css",
-    "main.js": "/static/js/main.653f3ee4.js",
+    "main.js": "/static/js/main.2975774c.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/portfoliophoto.gif": "/static/media/portfoliophoto.7f45af64d11074ff6815.gif",
+    "static/media/Biswajit-Roy-Resume.pdf": "/static/media/Biswajit-Roy-Resume.ae22be3e38f116bee266.pdf",
     "static/media/WeWear.png": "/static/media/WeWear.1980f6915b0a43ddf448.png",
     "static/media/Upstyle.png": "/static/media/Upstyle.e7f989389e774bb0ea41.png",
     "static/media/ApexRecruit.png": "/static/media/ApexRecruit.faf02b22f8fa3f75dad3.png",
     "static/media/YourDoc.png": "/static/media/YourDoc.cb5aa6cf4d9ec4ed18be.png",
     "static/media/Content Generator.png": "/static/media/Content Generator.ced60402b40336edb380.png",
     "static/media/StayUpdate.png": "/static/media/StayUpdate.5b3765a90a3049924856.png",
-    "static/media/Biswajit-Roy-Resume.pdf": "/static/media/Biswajit-Roy-Resume.d1d737be81bb0fef8235.pdf",
     "static/media/GardenEase.jpg": "/static/media/GardenEase.e4d40a84ed0d5a5ea5cd.jpg",
     "static/media/Tailwind-CSS1.png": "/static/media/Tailwind-CSS1.d5abcf62e57cbbee357e.png",
     "static/media/postgre.png": "/static/media/postgre.7ac7e99e7c1225302215.png",
@@ -32,11 +32,11 @@
     "static/media/postman.png": "/static/media/postman.e1a9171b748fb4a1100c.e1a9171b748fb4a1100c.png",
     "index.html": "/index.html",
     "main.6d09eaf3.css.map": "/static/css/main.6d09eaf3.css.map",
-    "main.653f3ee4.js.map": "/static/js/main.653f3ee4.js.map",
+    "main.2975774c.js.map": "/static/js/main.2975774c.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d09eaf3.css",
-    "static/js/main.653f3ee4.js"
+    "static/js/main.2975774c.js"
   ]
 }
