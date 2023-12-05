@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6d09eaf3.css",
-    "main.js": "/static/js/main.2975774c.js",
+    "main.js": "/static/js/main.e214ee33.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/portfoliophoto.gif": "/static/media/portfoliophoto.7f45af64d11074ff6815.gif",
     "static/media/Biswajit-Roy-Resume.pdf": "/static/media/Biswajit-Roy-Resume.ae22be3e38f116bee266.pdf",
@@ -32,11 +32,11 @@
     "static/media/postman.png": "/static/media/postman.e1a9171b748fb4a1100c.e1a9171b748fb4a1100c.png",
     "index.html": "/index.html",
     "main.6d09eaf3.css.map": "/static/css/main.6d09eaf3.css.map",
-    "main.2975774c.js.map": "/static/js/main.2975774c.js.map",
+    "main.e214ee33.js.map": "/static/js/main.e214ee33.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d09eaf3.css",
-    "static/js/main.2975774c.js"
+    "static/js/main.e214ee33.js"
   ]
 }
