@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/static/css/main.6d09eaf3.css",
-    "main.js": "/static/js/main.ac2f3a63.js",
+    "main.js": "/static/js/main.43af943c.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/portfoliophoto.gif": "/static/media/portfoliophoto.7f45af64d11074ff6815.gif",
-    "static/media/Biswajit-Roy-Resume.pdf": "/static/media/Biswajit-Roy-Resume.8744ba3180a70f317b8c.pdf",
+    "static/media/Biswajit-Roy-Resume.pdf": "/static/media/Biswajit-Roy-Resume.e7c3fcd1b964a9c6f57a.pdf",
     "static/media/WeWear.png": "/static/media/WeWear.1980f6915b0a43ddf448.png",
     "static/media/Upstyle.png": "/static/media/Upstyle.e7f989389e774bb0ea41.png",
     "static/media/ApexRecruit.png": "/static/media/ApexRecruit.faf02b22f8fa3f75dad3.png",
@@ -32,11 +32,11 @@
     "static/media/postman.png": "/static/media/postman.e1a9171b748fb4a1100c.e1a9171b748fb4a1100c.png",
     "index.html": "/index.html",
     "main.6d09eaf3.css.map": "/static/css/main.6d09eaf3.css.map",
-    "main.ac2f3a63.js.map": "/static/js/main.ac2f3a63.js.map",
+    "main.43af943c.js.map": "/static/js/main.43af943c.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d09eaf3.css",
-    "static/js/main.ac2f3a63.js"
+    "static/js/main.43af943c.js"
   ]
 }
